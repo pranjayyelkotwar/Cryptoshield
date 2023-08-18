@@ -1,5 +1,12 @@
 # Cryptoshield
+## Week 1
 
+### Assignment 1
+QSTP{8in4ry_i5_fUn!}
+
+### Assignment 2
+QSTP{5icK_0f_B1nary_nOw_:(}
+Attached script to find answer of assignment 1 and 2 .
 
 ## Week 2
 
