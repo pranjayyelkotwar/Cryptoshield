@@ -22,10 +22,12 @@ Recovered first 2 passwords using hashcat SHA512 brute force
 
 ### Assignment 3
 QSTP{n0th1ng_i5_COnfiden7ia1}
+
 Extracted hash of password using john-the-ripper tool . Then using hashcat extracted password , opened the pdf to reveal flag.
 
 ### Assignment 4
 QSTP{4ny7h1ng_caN_83_bru7E_f0rCed}
+
 Extracted hash using an online tool because couldnt use john-the-ripper properly on my system . Then using hashcat extracted password.
 
 ### Assignment 5 
