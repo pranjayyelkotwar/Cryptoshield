@@ -17,6 +17,7 @@ Recovered flag using attached python script
 ### Assignment 2
 6328c530f895ca13c75e161dec260ec2c0bed4fcff1b34448ea16a7ffffa5cdc403e5cc83b23321e9ad3280952be2adb037dd7afa3084b7e940c6a655b2f13ba:**goldeneye007**
 3fae7e18f9004673d0e68ca10264a1abaf76fbf42e60d960a1b95289401146e4bf39e599641c730db8f664f7f1dd02f171beb4730ac756aac7cf40c6bc4d623a:**goldeneye641**
+
 Recovered first 2 passwords using hashcat SHA512 brute force
 
 ### Assignment 3
