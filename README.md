@@ -32,4 +32,5 @@ Extracted hash using an online tool because couldnt use john-the-ripper properly
 
 ### Assignment 5 
 MuskKat@&$
+
 Created a wordlist using cupp program . Used hashcat with this wordlist and NTLM encryption to find answer . 
